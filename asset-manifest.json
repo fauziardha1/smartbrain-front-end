@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.370f4b20.chunk.css",
-    "main.js": "/static/js/main.1719d578.chunk.js",
-    "main.js.map": "/static/js/main.1719d578.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ed475fe9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ed475fe9.js.map",
-    "static/css/2.07548e1c.chunk.css": "/static/css/2.07548e1c.chunk.css",
-    "static/js/2.608d8ec9.chunk.js": "/static/js/2.608d8ec9.chunk.js",
-    "static/js/2.608d8ec9.chunk.js.map": "/static/js/2.608d8ec9.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.af4ae4a400fe5a0fda86b1f9c2d28923.js": "/precache-manifest.af4ae4a400fe5a0fda86b1f9c2d28923.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.07548e1c.chunk.css.map": "/static/css/2.07548e1c.chunk.css.map",
-    "static/css/main.370f4b20.chunk.css.map": "/static/css/main.370f4b20.chunk.css.map",
-    "static/js/2.608d8ec9.chunk.js.LICENSE.txt": "/static/js/2.608d8ec9.chunk.js.LICENSE.txt"
+    "main.css": "/smartbrain-front-end/static/css/main.370f4b20.chunk.css",
+    "main.js": "/smartbrain-front-end/static/js/main.79de8127.chunk.js",
+    "main.js.map": "/smartbrain-front-end/static/js/main.79de8127.chunk.js.map",
+    "runtime-main.js": "/smartbrain-front-end/static/js/runtime-main.26898930.js",
+    "runtime-main.js.map": "/smartbrain-front-end/static/js/runtime-main.26898930.js.map",
+    "static/css/2.07548e1c.chunk.css": "/smartbrain-front-end/static/css/2.07548e1c.chunk.css",
+    "static/js/2.608d8ec9.chunk.js": "/smartbrain-front-end/static/js/2.608d8ec9.chunk.js",
+    "static/js/2.608d8ec9.chunk.js.map": "/smartbrain-front-end/static/js/2.608d8ec9.chunk.js.map",
+    "index.html": "/smartbrain-front-end/index.html",
+    "precache-manifest.bea92668b35619606228ebcd681cd4c5.js": "/smartbrain-front-end/precache-manifest.bea92668b35619606228ebcd681cd4c5.js",
+    "service-worker.js": "/smartbrain-front-end/service-worker.js",
+    "static/css/2.07548e1c.chunk.css.map": "/smartbrain-front-end/static/css/2.07548e1c.chunk.css.map",
+    "static/css/main.370f4b20.chunk.css.map": "/smartbrain-front-end/static/css/main.370f4b20.chunk.css.map",
+    "static/js/2.608d8ec9.chunk.js.LICENSE.txt": "/smartbrain-front-end/static/js/2.608d8ec9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ed475fe9.js",
+    "static/js/runtime-main.26898930.js",
     "static/css/2.07548e1c.chunk.css",
     "static/js/2.608d8ec9.chunk.js",
     "static/css/main.370f4b20.chunk.css",
-    "static/js/main.1719d578.chunk.js"
+    "static/js/main.79de8127.chunk.js"
   ]
 }
